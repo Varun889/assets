@@ -17,8 +17,6 @@
 
 :root {
 
-	cursor: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnvi3ZpKa3onKrxfdZ40ek1rq3E1z-YoZCDdcEbIYhueplc0hLkOb3YAqlwJcbaRoMWTDa6nfkD2uUZilE8fFyF2TWwerlS5j6i_So-hkRQ1eAP3Eb0HESDYZqIxBIe1xorFIPNxjCRMpKGMIqsiDoh31Ff85ao0CsKAsyUWfrLlSSmZNxRd963T1uKNY/s24/Polygon%20.png'), auto;
-
   /**
    * colors
    */
@@ -120,6 +118,11 @@
 /*-----------------------------------*\
   #RESET
 \*-----------------------------------*/
+
+* {
+
+	cursor: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnvi3ZpKa3onKrxfdZ40ek1rq3E1z-YoZCDdcEbIYhueplc0hLkOb3YAqlwJcbaRoMWTDa6nfkD2uUZilE8fFyF2TWwerlS5j6i_So-hkRQ1eAP3Eb0HESDYZqIxBIe1xorFIPNxjCRMpKGMIqsiDoh31Ff85ao0CsKAsyUWfrLlSSmZNxRd963T1uKNY/s24/Polygon%20.png'), auto;
+}
 
 *, *::before, *::after {
   margin: 0;
